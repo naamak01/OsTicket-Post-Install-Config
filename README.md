@@ -237,6 +237,11 @@ Other
 ![image](https://github.com/user-attachments/assets/c87757ee-b730-4595-b600-c52034c7522a)
 
 
+All the Tickets Created
+
+![image](https://github.com/user-attachments/assets/bcf276bd-7c44-460b-8503-f55297366bf8)
+
+
 ## osTicket Configurations are Complete
 
 Now that the configurations have been set in place, we can now utilize osTicket as a proper ticketing system. We can create tickets and be able to trigger them as if I were in a real environment.
