@@ -69,7 +69,7 @@ Registration Required: Require registration and login to create tickets
 ![image](https://github.com/user-attachments/assets/3278a715-c65b-445e-bb2f-3472cfdf5077)
 
 
-Now, we will create and configure agents /workers. On the agents tab, click Add New. For this purpose, we will add two Agents with different profiles. The first Agent is Jane, who is a Supreme Admin and has access to all as an Admin. On the account, fill out your first and last name as well as an email address. Now, create a username and set a password. Once you choose a password, uncheck the change at the next login.
+Now, we will create and configure agents /workers. On the agents tab, click Add New. For this purpose, we will add two Agents with different profiles. The first Agent is James, who is a Supreme Admin and has access to all as an Admin. On the account, fill out your first and last name as well as an email address. Now, create a username and set a password. Once you choose a password, uncheck the change at the next login.
 
 ![image](https://github.com/user-attachments/assets/24e45901-5b85-4bc1-ac6c-d68bf91f046f)
 
@@ -94,7 +94,7 @@ Next, we will go through the Access tab On the drop-down menu select SysAdmin an
 
 Then go back to Agents and Recreate another 
 
-The next Agent will be John with limited access as a worker. From the Agents tab click on add new. Just as before fill out all the information and set a password. On the next tab under the drop-down select support and now view only for the access. Now the tabs for permissions and Teams we will leave as is and created. Once you create you can now see both new agents are added.
+The next Agent will be Alexis with limited access as a worker. From the Agents tab click on add new. Just as before fill out all the information and set a password. On the next tab under the drop-down select support and now view only for the access. Now the tabs for permissions and Teams we will leave as is and created. Once you create you can now see both new agents are added.
 
 ![image](https://github.com/user-attachments/assets/e3a307b0-fdaa-4e61-9710-8e0159265503)
 
